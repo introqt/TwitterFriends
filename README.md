@@ -1,15 +1,9 @@
 # TwitterFriends
 
-![](TwitterFriends.png)
-
 ------
 Django app that makes a graph dataset with your friends on twitter, on GDF format.
 
 This app saves information about you, all people you follow on Twitter and all people they follow using [Tweepy](https://github.com/tweepy/tweepy). This data is used to make a social graph in which you can study relationships between your friends on Twitter.
-
-For example, my social graph, made on Gephi, is:
-
-![graph](graph.png)
 
 ## How to use
 
